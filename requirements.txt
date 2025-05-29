@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+tensorflow
+torch
+tf-quant-finance
+gs-quant
+statsmodels
